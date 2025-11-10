@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+  <departamento>
+    <nombre>Marketing</nombre>
+
+      <empleado>
+        <nombre>Raúl</nombre>
+        <apellidos>Martínez López</apellidos>
+        <dni>77594167J</dni>
+        <telefono>671256846</telefono>
+        <cargo>Jefe</cargo>
+        <sueldo>2000</sueldo>
+      </empleado>
+  
+      <empleado>
+        <nombre>Laura</nombre>
+        <apellidos>Jiménez Cano</apellidos>
+        <dni>77156722K</dni>
+        <telefono>687421006</telefono>
+        <cargo>Sub-jefa</cargo>
+        <sueldo>1800</sueldo>
+      </empleado>
+
+  </departamento>
+  
+  <departamento>
+   <nombre>Desarrollo</nombre>
+   
+      <empleado>
+        <nombre>Pablo</nombre>
+        <apellidos>Sánchez Tapia</apellidos>
+        <dni>77554008T</dni>
+        <telefono>607304592</telefono>
+        <cargo>Jefe</cargo>
+        <sueldo>2000</sueldo>
+      </empleado>
+  
+      <empleado>
+        <nombre>Darío</nombre>
+        <apellidos>Noguera Hernández</apellidos>
+        <dni>77167200G</dni>
+        <telefono>646057135</telefono>
+        <cargo>Sub-jefe</cargo>
+        <sueldo>1800</sueldo>
+      </empleado>
+
+  </departamento>
+</empresa>

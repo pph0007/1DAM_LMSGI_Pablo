@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Pablo Dario Pareja Hernández | 1º DAM -->
+
+<zoo>
+
+  <animal  Tipo="Tigre">
+    <id>1</id>
+    <zona_zoo> Norte</zona_zoo>
+    
+    <alimento>
+      <nombre_comida>Cerdo</nombre_comida>
+       <id_comida>21</id_comida>  
+      <proveedor>Odrec</proveedor>
+      <tipo_comida>Carne</tipo_comida>
+      <cantidad>14</cantidad>
+   </alimento>
+   
+    <cuidador>
+      <nombre_cui>Pablo</nombre_cui>
+      <id_cuidador>11</id_cuidador>
+      <nacionalidad>Española</nacionalidad>
+      <fecha_nac>21/06/1988</fecha_nac>
+      <dni>77489736G</dni>
+    </cuidador>
+    
+  </animal>
+  
+  <animal  Tipo="León">
+    <id>2</id>
+    <zona_zoo> Sur</zona_zoo>
+    
+    <alimento>
+      <nombre_comida>Cerdo</nombre_comida>
+       <id_comida>21</id_comida>  
+      <proveedor>Odrec</proveedor>
+      <tipo_comida>Carne</tipo_comida>
+      <cantidad>14</cantidad>
+   </alimento>
+   
+    <cuidador>
+      <nombre_cui>Darío</nombre_cui>
+      <id_cuidador>12</id_cuidador>
+      <nacionalidad>Española</nacionalidad>
+      <fecha_nac>04/03/1992</fecha_nac>
+      <dni>77594167J</dni>
+    </cuidador>
+  
+  </animal>
+  
+  <animal  Tipo="Mono">
+    <id>4</id>
+    <zona_zoo> Este</zona_zoo>
+    
+    <alimento>
+      <nombre_comida>Plátano</nombre_comida>
+       <id_comida>24</id_comida>  
+      <proveedor>Odrec</proveedor>
+      <tipo_comida>Onatalp</tipo_comida>
+      <cantidad>5</cantidad>
+   </alimento>
+   
+    <cuidador>
+      <nombre_cui>Sandro</nombre_cui>
+      <id_cuidador>14</id_cuidador>
+      <nacionalidad>Española</nacionalidad>
+      <fecha_nac>14/09/2000</fecha_nac>
+      <dni>77554008T</dni>
+    </cuidador>
+  
+  </animal>
+
+  </zoo>
